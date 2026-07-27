@@ -75,25 +75,27 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ## ✨ Key Features
 
 ### 🏡 Community Tourism
-- Explore tribal community tourism destinations
-- Browse tours, homestays, and travel packages
-- Discover local cultural activities
+- Explore tribal community tourism destinations and local cultural experiences
+- Browse tours and homestays with detailed information
+- Discover traditional activities offered by local communities
 
-### 📅 Online Booking
-- Book tours and homestays online
-- Upload payment slips
-- Track booking status
+### 📅 Booking System
+- Reserve tours and homestays online
+- Upload payment slips for booking confirmation
+- Track booking status and view reservation details
+- View available tour schedules
 
-### 👥 User Management
-- Tourist
-- Community Manager
-- Homestay Owner
-- Administrator
+### 👥 Role-Based Management
+- **Tourist:** Browse destinations, make reservations, upload payment slips, and submit reviews
+- **Community Manager:** Manage tours, schedules, and customer bookings
+- **Homestay Owner:** Manage homestay information, room availability, and reservations
+- **Administrator:** Create Community Manager accounts and approve Homestay Owner registrations
 
 ### ⭐ Additional Features
-- Reviews and ratings
-- Tour schedules
-- Booking management
+- Review and rating system
+- Tour schedule management
+- Booking history and reservation tracking
+- Responsive web interface
 
 </td>
 
