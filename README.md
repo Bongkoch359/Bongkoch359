@@ -39,14 +39,68 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ---
 
-## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+## 🚀 Featured Projects
 
-_Add 2–4 projects max. Each row should fit on one screen._
+<table>
+<tr>
+
+<td width="45%" align="center">
+
+### 🌿 Tribal Community Tourism System
+
+`Main Project • 2025`
+
+<img src="images/homepage.png" width="420"/>
+
+<br><br>
+
+### 🛠️ Technologies Used
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+<br><br>
+
+🔗 **Repository:**  
+[View Project](https://github.com/Bongkoch359/miniproject)
+
+</td>
+
+<td width="55%">
+
+## ✨ Key Features
+
+### 🏡 Community Tourism
+- Explore tribal community tourism destinations
+- Browse tours, homestays, and travel packages
+- Discover local cultural activities
+
+### 📅 Online Booking
+- Book tours and homestays online
+- Upload payment slips
+- Track booking status
+
+### 👥 User Management
+- Tourist
+- Community Manager
+- Homestay Owner
+- Administrator
+
+### ⭐ Additional Features
+- Reviews and ratings
+- Tour schedules
+- Booking management
+
+</td>
+
+</tr>
+</table>
+
+
 
 ---
 
