@@ -3,20 +3,24 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m ⟪Bongkoch!⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+
+I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and continuously improving my programming and problem-solving skills through academic projects.
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <strong>Information Technology Student • Frontend Developer</strong><br/>
+  <em>“Passionate about building user-friendly web applications.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+
+- 💻 Passionate about Frontend Development and building user-friendly web applications
+- 🎨 Enjoy creating clean and intuitive user interfaces
+- 📚 Continuously improving my programming and problem-solving skills
+- 🌱 Currently developing a **Tribal Community Tourism System**
+- 📫 Reach me: **gmolbkoe47@gmail.com**
 
 ---
 
