@@ -3,7 +3,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪Bongkoch!⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Bongkoch! <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Information Technology Student • Frontend Developer</strong><br/>
@@ -123,7 +123,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
+- 💌 Email: gmolbkoe47@gmail.com
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
