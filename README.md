@@ -5,8 +5,6 @@
 
 <h1 align="center">Hi, I’m ⟪Bongkoch!⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
-I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and continuously improving my programming and problem-solving skills through academic projects.
-
 <p align="center">
   <strong>Information Technology Student • Frontend Developer</strong><br/>
   <em>“Passionate about building user-friendly web applications.”</em>
@@ -15,6 +13,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ---
 
 ## 🚀 About Me
+I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and continuously improving my programming and problem-solving skills through academic projects.
 
 - 💻 Passionate about Frontend Development and building user-friendly web applications
 - 🎨 Enjoy creating clean and intuitive user interfaces
