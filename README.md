@@ -136,8 +136,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/Email-gmolbkoe47%40gmail.com-EADBC8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D9C7B0"/>
 </a>
 
-<br><br>
-
+<br>
 <a href="https://github.com/Bongkoch359">
 <img src="https://img.shields.io/badge/GitHub-Bongkoch359-D7CCC8?style=for-the-badge&logo=github&logoColor=white&labelColor=BCAAA4"/>
 </a>
