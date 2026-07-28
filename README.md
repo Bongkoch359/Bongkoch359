@@ -50,6 +50,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 `Main Project • 2025`
 
+👥 **Team Project (2 Members)**
+
 <img src="images/homepage.png" width="420"/>
 
 <br><br>
