@@ -113,16 +113,24 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    height="170"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bongkoch359&theme=tokyonight&hide_border=true" />
+  <img
+    width="700"
+    src="https://streak-stats.demolab.com?user=Bongkoch359&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
