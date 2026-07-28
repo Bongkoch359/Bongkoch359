@@ -124,28 +124,25 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </p>
 
----
----
----
----
----
----
+------
 
-<h2 align="center">🤝 Let's Connect</h2>
+# 🤍 Let's Connect
 
-<p align="center">
+<div align="center">
+
+### ✨ Open to collaboration & new opportunities
+
 <a href="mailto:gmolbkoe47@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+<img src="https://img.shields.io/badge/Email-gmolbkoe47%40gmail.com-EADBC8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D9C7B0"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Bongkoch359">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-</p>
 
-<p align="center">
-<em>Building clean, user-friendly web applications with passion.</em>
-</p>
+<br><br>
+
+<a href="https://github.com/Bongkoch359">
+<img src="https://img.shields.io/badge/GitHub-Bongkoch359-D7CCC8?style=for-the-badge&logo=github&logoColor=white&labelColor=BCAAA4"/>
+</a>
+
+</div>
 
 ---
 
