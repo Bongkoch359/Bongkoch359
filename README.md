@@ -1,17 +1,16 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="images/banner1.png" alt="header image" width="100%" />
+  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I'm Bongkoch! <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Bongkoch! <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Information Technology Student • Frontend Developer</strong><br/>
-  <em>"Passionate about building user-friendly web applications."</em>
+  <em>“Passionate about building user-friendly web applications.”</em>
 </p>
 
 ---
-
 ## 🚀 About Me
 
 I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and applying my technical knowledge through academic projects.
@@ -70,8 +69,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </div>
 
 ---
-
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -110,11 +108,12 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 </td>
 
+
 <td width="55%">
 
-<h3>✨ Key Features</h3>
+<h2>✨ Key Features</h2>
 
-<h4>🏡 Community Tourism</h4>
+<h3>🏡 Community Tourism</h3>
 
 <ul>
 <li>Explore tribal community tourism destinations and local cultural experiences</li>
@@ -122,7 +121,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>Discover traditional activities offered by local communities</li>
 </ul>
 
-<h4>📅 Booking System</h4>
+
+<h3>📅 Booking System</h3>
 
 <ul>
 <li>Reserve tours and homestays online</li>
@@ -131,16 +131,31 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>View available tour schedules</li>
 </ul>
 
-<h4>👥 Role-Based Management</h4>
+
+<h3>👥 Role-Based Management</h3>
 
 <ul>
-<li><b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews</li>
-<li><b>Community Manager:</b> Manage tours, schedules, and customer bookings</li>
-<li><b>Homestay Owner:</b> Manage homestay information, room availability, and reservations</li>
-<li><b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations</li>
+
+<li>
+<b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews
+</li>
+
+<li>
+<b>Community Manager:</b> Manage tours, schedules, and customer bookings
+</li>
+
+<li>
+<b>Homestay Owner:</b> Manage homestay information, room availability, and reservations
+</li>
+
+<li>
+<b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations
+</li>
+
 </ul>
 
-<h4>⭐ Additional Features</h4>
+
+<h3>⭐ Additional Features</h3>
 
 <ul>
 <li>Review and rating system</li>
@@ -152,13 +167,13 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 </tr>
 </table>
-
 ---
+
 
 ## ✍🏻 Recent Blog / Talks
 <!-- GH Action can automate this section; placeholder for manual list -->
 - ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *"Scalable Monorepo Patterns"* on Medium  
+- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
 - ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
 
 ---
@@ -167,12 +182,13 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </p>
 
----
+------
 
-## 🤍 Let's Connect
+# 🤍 Let's Connect
 
 <div align="center">
 
@@ -181,6 +197,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <a href="mailto:gmolbkoe47@gmail.com">
 <img src="https://img.shields.io/badge/Email-gmolbkoe47%40gmail.com-EADBC8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D9C7B0"/>
 </a>
+
 <br>
 <a href="https://github.com/Bongkoch359">
 <img src="https://img.shields.io/badge/GitHub-Bongkoch359-D7CCC8?style=for-the-badge&logo=github&logoColor=white&labelColor=BCAAA4"/>
@@ -191,5 +208,5 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bongkoch359&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
