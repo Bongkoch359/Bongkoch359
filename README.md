@@ -113,16 +113,20 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" />
+  <img width="48%" alt="GitHub Stats"
+       src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default" />
 
-  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&langs_count=6&hide_border=true&theme=transparent" />
+  <img width="48%" alt="Top Languages"
+       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&hide_border=true&langs_count=6&theme=default" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Bongkoch359&theme=transparent&hide_border=true" />
+  <img width="70%" alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=Bongkoch359&theme=default&hide_border=true" />
 </p>
 
 ---
