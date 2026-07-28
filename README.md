@@ -125,21 +125,24 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </p>
 
 ---
-## 🤝 Let's Connect
+---
+
+## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:gmolbkoe47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Bongkoch359">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="mailto:gmolbkoe47@gmail.com">
+<img src="https://img.shields.io/badge/Email-gmolbkoe47%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bongkoch359">
+<img src="https://img.shields.io/badge/GitHub-Bongkoch359-000000?style=flat-square&logo=github"/>
+</a>
+
 </p>
 
 <p align="center">
-  <b>Email:</b> gmolbkoe47@gmail.com<br>
-  <b>GitHub:</b> github.com/Bongkoch359
+<i>Thanks for visiting my GitHub profile ❤️</i>
 </p>
 
 <p align="center">
