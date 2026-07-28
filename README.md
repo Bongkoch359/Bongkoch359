@@ -112,25 +112,16 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
 - ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
 
----
-## 📊 GitHub Statistics
+---## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" />
+
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&langs_count=6&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img
-    width="700"
-    src="https://streak-stats.demolab.com?user=Bongkoch359&theme=tokyonight&hide_border=true"
-  />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Bongkoch359&theme=transparent&hide_border=true" />
 </p>
 
 ---
