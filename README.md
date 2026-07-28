@@ -60,19 +60,20 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <h3>🛠️ Technologies Used</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 <br>
 
-🔗 **Repository**  
+🔗 **Repository**
+
 <a href="https://github.com/Bongkoch359/miniproject">
-View Project →
+<img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
 </a>
 
 </td>
@@ -104,6 +105,7 @@ View Project →
 <h3>👥 Role-Based Management</h3>
 
 <ul>
+
 <li>
 <b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews
 </li>
@@ -119,6 +121,7 @@ View Project →
 <li>
 <b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations
 </li>
+
 </ul>
 
 
@@ -135,8 +138,8 @@ View Project →
 
 </tr>
 </table>
-
 ---
+
 
 ## ✍🏻 Recent Blog / Talks
 <!-- GH Action can automate this section; placeholder for manual list -->
