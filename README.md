@@ -117,8 +117,12 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bongkoch359&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bongkoch359&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bongkoch359&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bongkoch359&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
