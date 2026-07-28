@@ -25,6 +25,20 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ---
 
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+| 🌿 Category | 💻 Technologies |
+|:--|:--|
+| 🩷 **Front-end** | ![](https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Bootstrap-F3E8FF?style=flat-square&logo=bootstrap&logoColor=7952B3) |
+| 💚 **Back-end** | ![](https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00) ![](https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F) |
+| 💙 **Database** | ![](https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1) |
+| 🩶 **Tools** | ![](https://img.shields.io/badge/VS_Code-E0F2FE?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![](https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=181717) ![](https://img.shields.io/badge/Figma-FDECEC?style=flat-square&logo=figma&logoColor=F24E1E) |
+
+</div>
+
+---
 ## 🚀 Featured Projects
 
 <table>
