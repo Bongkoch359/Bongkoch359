@@ -53,7 +53,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 👥 <b>Team Project (2 Members)</b>
 </p>
 
-<img src="images/homepage.png" width="420"/>
+<img src="images/banner1.png" width="420"/>
 
 <br><br>
 
