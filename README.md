@@ -131,7 +131,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>Review and rating system</li>
 <li>Tour schedule management</li>
 <li>Booking history and reservation tracking</li>
-<li>Responsive web interface</li>
 </ul>
 
 </td>
