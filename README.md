@@ -48,63 +48,88 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <td width="45%" align="center">
 
-### 🌿 Tribal Community Tourism System
+<h3>🌿 Tribal Community Tourism System</h3>
 
-`Main Project • 2025`
-
-👥 **Team Project (2 Members)**
+<p>
+<b>Main Project • 2025</b><br>
+👥 Team Project (2 Members)
+</p>
 
 <img src="images/homepage.png" width="420"/>
 
 <br><br>
 
-### 🛠️ Technologies Used
+<h3>🛠️ Tech Stack</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 <br><br>
 
-🔗 **Repository:**  
-[View Project](https://github.com/Bongkoch359/miniproject)
+<img src="https://img.shields.io/badge/Status-Completed-2E7D32?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/Bongkoch359/miniproject">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
+
 <td width="55%">
 
-## ✨ Key Features
+<h3>✨ Key Features</h3>
 
-### 🏡 Community Tourism
-- Explore tribal community tourism destinations and local cultural experiences
-- Browse tours and homestays with detailed information
-- Discover traditional activities offered by local communities
+<p><b>🏡 Community Tourism</b></p>
 
-### 📅 Booking System
-- Reserve tours and homestays online
-- Upload payment slips for booking confirmation
-- Track booking status and view reservation details
-- View available tour schedules
+<ul>
+<li>Explore tribal destinations and local cultural experiences</li>
+<li>Browse tours, activities, and homestay information</li>
+<li>Discover traditional community-based tourism</li>
+</ul>
 
-### 👥 Role-Based Management
-- **Tourist:** Browse destinations, make reservations, upload payment slips, and submit reviews
-- **Community Manager:** Manage tours, schedules, and customer bookings
-- **Homestay Owner:** Manage homestay information, room availability, and reservations
-- **Administrator:** Create Community Manager accounts and approve Homestay Owner registrations
 
-### ⭐ Additional Features
-- Review and rating system
-- Tour schedule management
-- Booking history and reservation tracking
-- Responsive web interface
+<p><b>📅 Booking System</b></p>
+
+<ul>
+<li>Online tour and homestay reservations</li>
+<li>Payment slip upload for booking confirmation</li>
+<li>Track booking status and reservation history</li>
+<li>View available tour schedules</li>
+</ul>
+
+
+<p><b>👥 Role-Based Management</b></p>
+
+<ul>
+<li><b>Tourist:</b> Browse destinations, make bookings, upload payment slips, and submit reviews</li>
+<li><b>Community Manager:</b> Manage tours, schedules, and customer bookings</li>
+<li><b>Homestay Owner:</b> Manage homestays, rooms, and availability</li>
+<li><b>Administrator:</b> Manage accounts and approve registrations</li>
+</ul>
+
+
+<p><b>⭐ Additional Features</b></p>
+
+<ul>
+<li>Review & Rating System</li>
+<li>Tour Schedule Management</li>
+<li>Booking History Tracking</li>
+<li>Responsive Web Interface</li>
+</ul>
 
 </td>
 
 </tr>
 </table>
+
+---
 
 
 
