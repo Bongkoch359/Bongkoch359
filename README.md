@@ -25,22 +25,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-<div align="center">
-
-| 🌿 Category | 💻 Technologies |
-|:--|:--|
-| 🩷 **Front-end** | ![](https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Bootstrap-F3E8FF?style=flat-square&logo=bootstrap&logoColor=7952B3) |
-| 💚 **Back-end** | ![](https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00) ![](https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F) |
-| 💙 **Database** | ![](https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1) |
-| 🩶 **Tools** | ![](https://img.shields.io/badge/VS_Code-E0F2FE?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![](https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=181717) ![](https://img.shields.io/badge/Figma-FDECEC?style=flat-square&logo=figma&logoColor=F24E1E) |
-
-</div>
-
-
-
----
 ## 🚀 Featured Projects
 
 <table>
@@ -52,31 +36,29 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <p>
 <b>Main Project • 2025</b><br>
-👥 Team Project (2 Members)
+👥 <b>Team Project (2 Members)</b>
 </p>
 
 <img src="images/homepage.png" width="420"/>
 
 <br><br>
 
-<h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Technologies Used</h3>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
+
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-Completed-2E7D32?style=flat-square"/>
-
-<br><br>
-
+🔗 **Repository**  
 <a href="https://github.com/Bongkoch359/miniproject">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+View Project →
 </a>
 
 </td>
@@ -84,54 +66,61 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <td width="55%">
 
-<h3>✨ Key Features</h3>
+<h2>✨ Key Features</h2>
 
-<p><b>🏡 Community Tourism</b></p>
+<h3>🏡 Community Tourism</h3>
 
 <ul>
-<li>Explore tribal destinations and local cultural experiences</li>
-<li>Browse tours, activities, and homestay information</li>
-<li>Discover traditional community-based tourism</li>
+<li>Explore tribal community tourism destinations and local cultural experiences</li>
+<li>Browse tours and homestays with detailed information</li>
+<li>Discover traditional activities offered by local communities</li>
 </ul>
 
 
-<p><b>📅 Booking System</b></p>
+<h3>📅 Booking System</h3>
 
 <ul>
-<li>Online tour and homestay reservations</li>
-<li>Payment slip upload for booking confirmation</li>
-<li>Track booking status and reservation history</li>
+<li>Reserve tours and homestays online</li>
+<li>Upload payment slips for booking confirmation</li>
+<li>Track booking status and view reservation details</li>
 <li>View available tour schedules</li>
 </ul>
 
 
-<p><b>👥 Role-Based Management</b></p>
+<h3>👥 Role-Based Management</h3>
 
 <ul>
-<li><b>Tourist:</b> Browse destinations, make bookings, upload payment slips, and submit reviews</li>
-<li><b>Community Manager:</b> Manage tours, schedules, and customer bookings</li>
-<li><b>Homestay Owner:</b> Manage homestays, rooms, and availability</li>
-<li><b>Administrator:</b> Manage accounts and approve registrations</li>
+<li>
+<b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews
+</li>
+
+<li>
+<b>Community Manager:</b> Manage tours, schedules, and customer bookings
+</li>
+
+<li>
+<b>Homestay Owner:</b> Manage homestay information, room availability, and reservations
+</li>
+
+<li>
+<b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations
+</li>
 </ul>
 
 
-<p><b>⭐ Additional Features</b></p>
+<h3>⭐ Additional Features</h3>
 
 <ul>
-<li>Review & Rating System</li>
-<li>Tour Schedule Management</li>
-<li>Booking History Tracking</li>
-<li>Responsive Web Interface</li>
+<li>Review and rating system</li>
+<li>Tour schedule management</li>
+<li>Booking history and reservation tracking</li>
+<li>Responsive web interface</li>
 </ul>
 
 </td>
 
 </tr>
 </table>
-
----
-
-
 
 ---
 
