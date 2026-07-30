@@ -1,25 +1,12 @@
 <!-- Banner / Cover -->
 
+<!-- Banner / Cover -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=45&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Frontend%20Developer%20%7C%20💗%20Passionate%20about%20building%20user-friendly%20web%20applications.&descAlignY=65&descSize=16"
     alt="header image"
   />
 </p>
-
-
-<!-- Introduction -->
-<h1 align="center">
-  Hi, I'm Bongkoch! 👋
-</h1>
-
-
-
-<p align="center">
-  <strong>Information Technology Student • Frontend Developer</strong><br/>
-  <em>“💗 Passionate about building user-friendly web applications.”</em>
-</p>
-
 ---
 ## 🚀 About Me
 
