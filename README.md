@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Bongkoch%20Saeyang&fontSize=55&fontColor=6B5B95&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Information%20Technology%20Student&descAlignY=65&descSize=18" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&animation=fadeIn" 
     alt="header image"
   />
 </p>
@@ -44,6 +44,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
     <th style="padding:12px; font-size:18px;">🌿 Category</th>
     <th style="padding:12px; font-size:18px;">💻 Technologies</th>
   </tr>
+
   <tr>
     <td style="padding:14px; font-size:16px;">🩷 <b>Front-end</b></td>
     <td style="padding:14px;">
@@ -53,31 +54,36 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
       <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" height="32"/>
     </td>
   </tr>
+
   <tr>
     <td style="padding:14px; font-size:16px;">💚 <b>Back-end</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/Java-FEF3C7?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="32"/>
       <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="32"/>
+      <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=for-the-badge&logo=spring&logoColor=6DB33F" height="32"/>
     </td>
   </tr>
+
   <tr>
     <td style="padding:14px; font-size:16px;">💙 <b>Database</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
     </td>
   </tr>
+
   <tr>
     <td style="padding:14px; font-size:16px;">🩶 <b>Tools</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="32"/>
+      <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255" height="32"/>
       <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=181717" height="32"/>
       <img src="https://img.shields.io/badge/Figma-FDECEC?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32"/>
     </td>
   </tr>
+
 </table>
 
 </div>
-
 ---
 ## 🚀 Featured Projects
 
