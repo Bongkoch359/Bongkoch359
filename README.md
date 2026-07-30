@@ -254,11 +254,9 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 
 
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+## ✍🏻 Recent Activities
+
+⟪2024⟫ • Teacher Assistant - Database Programming, supporting students in SQL and database programming practices
 
 ---
 
