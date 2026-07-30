@@ -13,16 +13,7 @@
   Hi, I'm Bongkoch! 👋
 </h1>
 
-<p align="center">
-  💻 <strong>Frontend Developer</strong> <br/>
-  🎓 Information Technology Student at Maejo University
-</p>
 
-<p align="center">
-  <em>
-    Passionate about building responsive and user-friendly web applications.
-  </em>
-</p>
 
 <p align="center">
   <strong>Information Technology Student • Frontend Developer</strong><br/>
