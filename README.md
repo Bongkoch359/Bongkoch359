@@ -132,7 +132,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <ul>
 <li>Explore tribal community tourism destinations and local cultural experiences.</li>
-<li>Browse available tours, packages, and homestays with detailed information.</li>
+<li>Browse available tours and homestays with detailed information.</li>
 <li>Discover traditional activities provided by local communities.</li>
 </ul>
 
