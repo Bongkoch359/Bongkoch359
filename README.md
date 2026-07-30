@@ -256,7 +256,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ## ✍🏻 Recent Activities
 
-⟪2024⟫ • Teacher Assistant - Database Programming, supporting students in SQL and database programming practices
+⟪2025⟫ • Teacher Assistant - Database Programming, supporting students in SQL and database programming practices
 
 ---
 
