@@ -100,14 +100,13 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <br>
 
-🔗 **Repository**
+🔗 <b>Repository</b>
 
 <a href="https://github.com/Bongkoch359/miniproject">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
 </a>
 
 </td>
-
 
 <td width="55%">
 
@@ -121,7 +120,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>Discover traditional activities offered by local communities</li>
 </ul>
 
-
 <h3>📅 Booking System</h3>
 
 <ul>
@@ -131,29 +129,14 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>View available tour schedules</li>
 </ul>
 
-
 <h3>👥 Role-Based Management</h3>
 
 <ul>
-
-<li>
-<b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews
-</li>
-
-<li>
-<b>Community Manager:</b> Manage tours, schedules, and customer bookings
-</li>
-
-<li>
-<b>Homestay Owner:</b> Manage homestay information, room availability, and reservations
-</li>
-
-<li>
-<b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations
-</li>
-
+<li><b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews</li>
+<li><b>Community Manager:</b> Manage tours, schedules, and customer bookings</li>
+<li><b>Homestay Owner:</b> Manage homestay information, room availability, and reservations</li>
+<li><b>Administrator:</b> Create Community Manager accounts and approve Homestay Owner registrations</li>
 </ul>
-
 
 <h3>⭐ Additional Features</h3>
 
@@ -167,7 +150,87 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 </tr>
 </table>
+
 ---
+
+<table>
+<tr>
+
+<td width="45%" align="center">
+
+<h3>🌄 Chiang Mai Tourism Booking System</h3>
+
+<p>
+<b>Academic Project • 2025</b><br>
+👥 <b>Team Project (2 Members)</b>
+</p>
+
+<img src="images/banner2.png" width="420"/>
+
+<br><br>
+
+<h3>🛠️ Technologies Used</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<br>
+
+🔗 <b>Repository</b>
+
+<a href="https://github.com/Bongkoch359/chiang-mai-tourism-booking-system">
+<img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
+</a>
+
+</td>
+
+<td width="55%">
+
+<h2>✨ Key Features</h2>
+
+<h3>🗺️ Tourism Booking</h3>
+
+<ul>
+<li>Browse tourism attractions and activities across Chiang Mai.</li>
+<li>Explore detailed information about destinations and tourism activities.</li>
+<li>Search available activities based on user preferences.</li>
+</ul>
+
+<h3>📅 Booking System</h3>
+
+<ul>
+<li>Book tourism activities online.</li>
+<li>Upload payment slips for booking verification.</li>
+<li>View booking status and reservation details.</li>
+<li>Access booking history anytime.</li>
+</ul>
+
+<h3>👥 User Management</h3>
+
+<ul>
+<li><b>Tourist:</b> Register, browse activities, make bookings, upload payment slips, and manage reservations.</li>
+<li><b>Administrator:</b> Manage tourism activities, bookings, payment verification, and user accounts.</li>
+</ul>
+
+<h3>⭐ Additional Features</h3>
+
+<ul>
+<li>Responsive web interface.</li>
+<li>Secure authentication and authorization.</li>
+<li>Payment confirmation workflow.</li>
+<li>Booking history management.</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 
 
 ## ✍🏻 Recent Blog / Talks
