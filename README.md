@@ -1,16 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="images/coding.gif" width="700" alt="Coding GIF">
-</p>
-
-<h1 align="center">Bongkoch Saeyang</h1>
-
-<p align="center">
-Frontend Developer • Information Technology Student
-</p>
-
-<p align="center">
-💗 Passionate about building user-friendly web applications.
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 </p>
 
 
@@ -18,7 +8,7 @@ Frontend Developer • Information Technology Student
 
 <p align="center">
   <strong>Information Technology Student • Frontend Developer</strong><br/>
-  <em>“Passionate about building user-friendly web applications.”</em>
+  <em>“💗 Passionate about building user-friendly web applications.”</em>
 </p>
 
 ---
