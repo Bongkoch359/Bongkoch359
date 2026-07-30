@@ -269,7 +269,3 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
-</p>
