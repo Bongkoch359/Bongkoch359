@@ -21,7 +21,7 @@
 
 I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and applying my technical knowledge through academic projects.
 
-- 💻 Passionate about Frontend Development and modern web technologies
+- 💻 Passionate about Frontend Development and familiar with Backend Development using Spring Boot and MySQL
 - 🎨 Enjoy creating clean and intuitive user interfaces
 - 🤝 Enjoy collaborating with others and solving real-world problems
 - 🌱 Continuously learning and improving my programming skills
