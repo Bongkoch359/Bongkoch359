@@ -81,7 +81,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -93,14 +92,14 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <p>
 <b>Main Project • 2025</b><br>
-👥 Team Project (2 Members)
+👥 <b>Team Project (2 Members)</b>
 </p>
 
-<img src="images/banner1.png" width="400"/>
+<img src="images/banner1.png" width="420"/>
 
-<br>
+<br><br>
 
-<h4>🛠️ Tech Stack</h4>
+<h3>🛠️ Technologies Used</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
@@ -111,15 +110,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-<h4>✨ Features</h4>
-
-<p align="left">
-🌿 Explore tribal tourism & homestays<br>
-📅 Tour and homestay booking system<br>
-💳 Payment slip submission & verification<br>
-👥 Role-based management system<br>
-⭐ Review and rating system
-</p>
+<br>
 
 <a href="https://github.com/Bongkoch359/miniproject">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
@@ -128,20 +119,65 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </td>
 
 
+<td width="50%" valign="top">
+
+<h2>✨ Key Features</h2>
+
+<h3>🌿 Community Tourism</h3>
+
+<ul>
+<li>Explore tribal community tourism destinations and local cultural experiences.</li>
+<li>Browse available tours, packages, and homestays with detailed information.</li>
+<li>Discover traditional activities provided by local communities.</li>
+</ul>
+
+<h3>📅 Booking System</h3>
+
+<ul>
+<li>Reserve tours and homestays through an online booking system.</li>
+<li>Upload payment slips for booking confirmation.</li>
+<li>Track booking status and view reservation details.</li>
+<li>View available tour schedules.</li>
+</ul>
+
+<h3>👥 Role-Based Management</h3>
+
+<ul>
+<li><b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews.</li>
+<li><b>Community Manager:</b> Manage tours, schedules, and customer bookings.</li>
+<li><b>Homestay Owner:</b> Manage homestay information, rooms, and reservations.</li>
+<li><b>Administrator:</b> Manage users and approve registrations.</li>
+</ul>
+
+<h3>⭐ Additional Features</h3>
+
+<ul>
+<li>Review and rating system.</li>
+<li>Tour schedule management.</li>
+<li>Booking history tracking.</li>
+</ul>
+
+</td>
+
+</tr>
+
+
+<tr>
+
 <td width="50%" align="center">
 
 <h3>🌄 Chiang Mai Tourism Booking System</h3>
 
 <p>
 <b>Academic Project • 2025</b><br>
-👥 Team Project (2 Members)
+👥 <b>Team Project (2 Members)</b>
 </p>
 
-<img src="images/banner2.png" width="400"/>
+<img src="images/banner2.png" width="420"/>
 
-<br>
+<br><br>
 
-<h4>🛠️ Tech Stack</h4>
+<h3>🛠️ Technologies Used</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
@@ -152,15 +188,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-<h4>✨ Features</h4>
-
-<p align="left">
-🎯 Browse Chiang Mai activities<br>
-📅 Online activity booking<br>
-💳 Payment verification workflow<br>
-👤 User & admin management<br>
-📋 Booking history tracking
-</p>
+<br>
 
 <a href="https://github.com/Bongkoch359/chiang-mai-tourism-booking-system">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
@@ -168,9 +196,48 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 </td>
 
-</tr>
-</table>
 
+<td width="50%" valign="top">
+
+<h2>✨ Key Features</h2>
+
+<h3>🎯 Tourism Activities</h3>
+
+<ul>
+<li>Browse available tourism activities in Chiang Mai.</li>
+<li>View activity details, schedules, and pricing.</li>
+<li>Explore activity information before making a reservation.</li>
+</ul>
+
+<h3>📅 Booking System</h3>
+
+<ul>
+<li>Book tourism activities online.</li>
+<li>Upload payment slips for booking confirmation.</li>
+<li>Track booking status and reservation details.</li>
+<li>Access booking history.</li>
+</ul>
+
+<h3>👥 User Management</h3>
+
+<ul>
+<li><b>Tourist:</b> Register, browse activities, make bookings, and manage reservations.</li>
+<li><b>Administrator:</b> Manage tourism activities, verify payments, and approve bookings.</li>
+</ul>
+
+<h3>⭐ Additional Features</h3>
+
+<ul>
+<li>Activity schedule management.</li>
+<li>Payment approval workflow.</li>
+<li>Booking history tracking.</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
