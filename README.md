@@ -3,11 +3,20 @@
 <!-- Banner / Cover -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=45&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Frontend%20Developer%20%7C%20💗%20Passionate%20about%20building%20user-friendly%20web%20applications.&descAlignY=65&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Bongkoch%20Saeyang%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Frontend%20Developer&descAlignY=65&descSize=16"
     alt="header image"
   />
 </p>
+
+<p align="center">
+  <em>
+    💗 Passionate about building user-friendly web applications.
+  </em>
+</p>
+
 ---
+
+
 ## 🚀 About Me
 
 I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and applying my technical knowledge through academic projects.
