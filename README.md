@@ -93,6 +93,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <p>
 <b>Main Project • 2025</b><br>
 👥 <b>Team Project (2 Members)</b>
+💼 <b>My Role: Frontend & Backend Developer</b>
 </p>
 
 <img src="images/banner1.png" width="420"/>
@@ -111,6 +112,10 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </p>
 
 <br>
+
+🔗 <b>Links</b>
+
+<p>
 
 <a href="https://github.com/Bongkoch359/miniproject">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
@@ -171,6 +176,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <p>
 <b>Academic Project • 2025</b><br>
 👥 <b>Team Project (2 Members)</b>
+💼 <b>My Role: Frontend & Backend Developer</b>
 </p>
 
 <img src="images/banner2.png" width="420"/>
@@ -188,7 +194,12 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
+
 <br>
+
+🔗 <b>Links</b>
+
+<p>
 
 <a href="https://github.com/Bongkoch359/chiang-mai-tourism-booking-system">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
