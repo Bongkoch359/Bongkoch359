@@ -91,7 +91,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <h3>🌿 Tribal Community Tourism System</h3>
 
 <p>
-<b>Main Project • 2025</b><br>
+<b>Main Project • 2026</b><br>
 👥 <b>Team Project (2 Members)</b><br>
 💼 <b>My Role: Frontend & Backend Developer</b>
 </p>
