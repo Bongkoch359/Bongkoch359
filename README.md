@@ -1,6 +1,11 @@
 <!-- Banner / Cover -->
+<!-- Banner / Cover -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:F8C8DC,50:E9D5FF,100:C7D2FE&section=header&text=Bongkoch%20Saeyang&fontSize=48&fontColor=5B4B8A&animation=fadeIn&desc=Frontend%20Developer%20•%20Information%20Technology%20Student&descAlignY=68&descSize=18" alt="header image"/>
+</p>
+
+<p align="center">
+  <em>Passionate about building user-friendly web applications.</em>
 </p>
 
 
