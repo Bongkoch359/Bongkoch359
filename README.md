@@ -87,20 +87,20 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <table>
 <tr>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <h3>🌿 Tribal Community Tourism System</h3>
 
 <p>
 <b>Main Project • 2025</b><br>
-👥 <b>Team Project (2 Members)</b>
+👥 Team Project (2 Members)
 </p>
 
-<img src="images/banner1.png" width="420"/>
+<img src="images/banner1.png" width="400"/>
 
-<br><br>
+<br>
 
-<h3>🛠️ Technologies</h3>
+<h4>🛠️ Tech Stack</h4>
 
 <p>
 <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
@@ -111,7 +111,15 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-🔗 <b>Repository</b><br>
+<h4>✨ Features</h4>
+
+<p align="left">
+🌿 Explore tribal tourism & homestays<br>
+📅 Tour and homestay booking system<br>
+💳 Payment slip submission & verification<br>
+👥 Role-based management system<br>
+⭐ Review and rating system
+</p>
 
 <a href="https://github.com/Bongkoch359/miniproject">
 <img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
@@ -120,17 +128,43 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </td>
 
 
-<td width="55%">
+<td width="50%" align="center">
 
-<h2>✨ Key Features</h2>
+<h3>🌄 Chiang Mai Tourism Booking System</h3>
 
-<ul>
-<li>🌿 Explore tribal tourism destinations, tours, and homestays</li>
-<li>📅 Online booking with payment slip submission</li>
-<li>👥 Role-based management for Tourist, Community Manager, Homestay Owner, and Admin</li>
-<li>⭐ Review and rating system</li>
-<li>📋 Tour schedule and booking management</li>
-</ul>
+<p>
+<b>Academic Project • 2025</b><br>
+👥 Team Project (2 Members)
+</p>
+
+<img src="images/banner2.png" width="400"/>
+
+<br>
+
+<h4>🛠️ Tech Stack</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<h4>✨ Features</h4>
+
+<p align="left">
+🎯 Browse Chiang Mai activities<br>
+📅 Online activity booking<br>
+💳 Payment verification workflow<br>
+👤 User & admin management<br>
+📋 Booking history tracking
+</p>
+
+<a href="https://github.com/Bongkoch359/chiang-mai-tourism-booking-system">
+<img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
+</a>
 
 </td>
 
@@ -140,57 +174,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ---
 
-<table>
-<tr>
-
-<td width="45%" align="center">
-
-<h3>🌄 Chiang Mai Tourism Booking System</h3>
-
-<p>
-<b>Academic Project • 2025</b><br>
-👥 <b>Team Project (2 Members)</b>
-</p>
-
-<img src="images/banner2.png" width="420"/>
-
-<br><br>
-
-<h3>🛠️ Technologies</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Java-FEF3C7?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat-square&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-🔗 <b>Repository</b><br>
-
-<a href="https://github.com/Bongkoch359/chiang-mai-tourism-booking-system">
-<img src="https://img.shields.io/badge/GitHub-View_Project-F3F4F6?style=flat-square&logo=github&logoColor=181717"/>
-</a>
-
-</td>
-
-
-<td width="55%">
-
-<h2>✨ Key Features</h2>
-
-<ul>
-<li>🎯 Browse Chiang Mai tourism activities</li>
-<li>📅 Online activity booking and payment verification</li>
-<li>👤 User and administrator management</li>
-<li>📋 Activity schedule and booking history</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
 
 
 ## ✍🏻 Recent Blog / Talks
