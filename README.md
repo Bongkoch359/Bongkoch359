@@ -215,7 +215,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <ul>
 <li><b>Tourist:</b> Register, browse activities, make bookings, upload payment slips, and manage reservations.</li>
-<li><b>Administrator:</b> Manage tourism activities, verify payment slips, approve bookings, and manage user accounts.</li>
+<li><b>Administrator:</b> Manage tourism activities, verify payment slips, approve bookings.</li>
 </ul>
 
 <h3>⭐ Additional Features</h3>
@@ -224,7 +224,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>Activity schedule management.</li>
 <li>Payment approval workflow.</li>
 <li>Booking history tracking.</li>
-<li>Responsive web interface.</li>
+
 </ul>
 
 </td>
