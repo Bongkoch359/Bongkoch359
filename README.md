@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Bongkoch%20Saeyang&fontSize=55&fontColor=6B5B95&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Information%20Technology%20Student&descAlignY=65&descSize=18" alt="header image"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi, I’m Bongkoch!%20Saeyang&fontSize=55&fontColor=6B5B95&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Information%20Technology%20Student&descAlignY=65&descSize=18" alt="header image"/>
 </p>
 
 
