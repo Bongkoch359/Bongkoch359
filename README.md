@@ -34,19 +34,18 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 📍 **Current Project:** Developing a **Tribal Community Tourism System**, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
 
 ---
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
 
 <table>
   <tr>
-    <th style="padding:12px; font-size:18px;">🌿 Category</th>
+    <th style="padding:12px; font-size:18px;">📂 Category</th>
     <th style="padding:12px; font-size:18px;">💻 Technologies</th>
   </tr>
 
   <tr>
-    <td style="padding:14px; font-size:16px;">🩷 <b>Front-end</b></td>
+    <td style="padding:14px; font-size:16px;">🎨 <b>Front-end</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/HTML5-FFE5E5?style=for-the-badge&logo=html5&logoColor=E34F26" height="32"/>
       <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=for-the-badge&logo=css3&logoColor=1572B6" height="32"/>
@@ -56,7 +55,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   </tr>
 
   <tr>
-    <td style="padding:14px; font-size:16px;">💚 <b>Back-end</b></td>
+    <td style="padding:14px; font-size:16px;">⚙️ <b>Back-end</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/Java-FEF3C7?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="32"/>
       <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="32"/>
@@ -65,14 +64,14 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   </tr>
 
   <tr>
-    <td style="padding:14px; font-size:16px;">💙 <b>Database</b></td>
+    <td style="padding:14px; font-size:16px;">🗄️ <b>Database</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
     </td>
   </tr>
 
   <tr>
-    <td style="padding:14px; font-size:16px;">🩶 <b>Tools</b></td>
+    <td style="padding:14px; font-size:16px;">🛠️ <b>Tools</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="32"/>
       <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255" height="32"/>
@@ -84,7 +83,9 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </table>
 
 </div>
+
 ---
+
 ## 🚀 Featured Projects
 
 <table>
