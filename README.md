@@ -194,37 +194,37 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 <h2>✨ Key Features</h2>
 
-<h3>🗺️ Tourism Booking</h3>
+<h3>🎯 Tourism Activities</h3>
 
 <ul>
-<li>Browse tourism attractions and activities across Chiang Mai.</li>
-<li>Explore detailed information about destinations and tourism activities.</li>
-<li>Search available activities based on user preferences.</li>
+<li>Browse available tourism activities in Chiang Mai.</li>
+<li>View activity details, schedules, and pricing.</li>
+<li>Explore activity information before making a reservation.</li>
 </ul>
 
 <h3>📅 Booking System</h3>
 
 <ul>
 <li>Book tourism activities online.</li>
-<li>Upload payment slips for booking verification.</li>
-<li>View booking status and reservation details.</li>
-<li>Access booking history anytime.</li>
+<li>Upload payment slips for booking confirmation.</li>
+<li>Track booking status and view reservation details.</li>
+<li>Access booking history.</li>
 </ul>
 
 <h3>👥 User Management</h3>
 
 <ul>
 <li><b>Tourist:</b> Register, browse activities, make bookings, upload payment slips, and manage reservations.</li>
-<li><b>Administrator:</b> Manage tourism activities, bookings, payment verification, and user accounts.</li>
+<li><b>Administrator:</b> Manage tourism activities, verify payment slips, approve bookings, and manage user accounts.</li>
 </ul>
 
 <h3>⭐ Additional Features</h3>
 
 <ul>
+<li>Activity schedule management.</li>
+<li>Payment approval workflow.</li>
+<li>Booking history tracking.</li>
 <li>Responsive web interface.</li>
-<li>Secure authentication and authorization.</li>
-<li>Payment confirmation workflow.</li>
-<li>Booking history management.</li>
 </ul>
 
 </td>
