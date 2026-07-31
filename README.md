@@ -148,7 +148,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <h3>👥 Role-Based Management</h3>
 
 <ul>
-<li><b>Tourist:</b> Browse destinations, make reservations, upload payment slips, and submit reviews.</li>
+<li><b>Member:</b> Browse destinations, make reservations, upload payment slips, and submit reviews.</li>
 <li><b>Community Manager:</b> Manage tours, schedules, and customer bookings.</li>
 <li><b>Homestay Owner:</b> Manage homestay information, rooms, and reservations.</li>
 <li><b>Administrator:</b> Manage users and approve registrations.</li>
