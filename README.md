@@ -93,7 +93,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <p>
 <b>Main Project • 2026</b><br>
 👥 <b>Team Project (2 Members)</b><br>
-💼 <b>My Role: Frontend & Backend Developer</b>
+💼 <b>My Role: Frontend & Backend Developer (Member & Admin)</b>
 </p>
 
 <img src="images/banner1.png" width="420"/>
@@ -176,7 +176,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <p>
 <b>Academic Project • 2025</b><br>
 👥 <b>Team Project (2 Members)</b><br>
-💼 <b>My Role: Frontend & Backend Developer</b>
+💼 <b>My Role: Frontend Developer (Booking & User Interface)</b>
 </p>
 
 <img src="images/banner2.png" width="420"/>
