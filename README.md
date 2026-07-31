@@ -179,7 +179,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 💼 <b>My Role: Frontend Developer (Booking & User Interface)</b>
 </p>
 
-<img src="images/banner2.png" width="420"/>
+<img src="images/banner2.jpg" width="420"/>
 
 <br><br>
 
