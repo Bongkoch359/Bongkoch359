@@ -1,35 +1,35 @@
 <!-- Banner / Cover -->
 
-<!-- Banner / Cover -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Frontend%20Developer&descAlignY=65&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Full-Stack%20Developer&descAlignY=65&descSize=16"
     alt="header image"
   />
 </p>
 
 <p align="center">
   <em>
-    💗 Passionate about building user-friendly web applications.
+    💗 Passionate about building user-friendly and scalable web applications.
   </em>
 </p>
 
 ---
 
-
 ## 🚀 About Me
 
-I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and applying my technical knowledge through academic projects.
+I'm a fourth-year Information Technology student at Maejo University with a strong interest in Full-Stack Web Development. I enjoy building web applications from frontend interfaces to backend functionalities and applying my technical knowledge through academic projects.
 
-- 💻 Passionate about Frontend Development and familiar with Backend Development using Spring Boot and MySQL
-- 🎨 Enjoy creating clean and intuitive user interfaces
+- 💻 Passionate about Full-Stack Web Development using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript
+- 🎨 Enjoy creating clean, responsive, and user-friendly interfaces
+- ⚙️ Experienced in developing backend functionalities and database integration
 - 🤝 Enjoy collaborating with others and solving real-world problems
-- 🌱 Continuously learning and improving my programming skills
+- 🌱 Continuously learning and improving my web development skills
 - 📫 Reach me: **gmolbkoe47@gmail.com**
 
-📍 **Current Project:** Developing a **Tribal Community Tourism System**, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
+📍 **Current Project:** Developing a **Tribal Community Tourism System**, a full-stack web application that promotes tribal community tourism by providing information about tours, homestays, bookings, and payment management.
 
 ---
+
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
@@ -47,6 +47,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
       <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=for-the-badge&logo=css3&logoColor=1572B6" height="32"/>
       <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
       <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" height="32"/>
+      <img src="https://img.shields.io/badge/Thymeleaf-E8F5E9?style=for-the-badge&logo=thymeleaf&logoColor=005F0F" height="32"/>
     </td>
   </tr>
 
@@ -71,6 +72,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="32"/>
       <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255" height="32"/>
+      <img src="https://img.shields.io/badge/Git-FEF3C7?style=for-the-badge&logo=git&logoColor=F05032" height="32"/>
       <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=181717" height="32"/>
       <img src="https://img.shields.io/badge/Figma-FDECEC?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32"/>
     </td>
