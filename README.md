@@ -47,7 +47,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
       <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=for-the-badge&logo=css3&logoColor=1572B6" height="32"/>
       <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
       <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" height="32"/>
-     
     </td>
   </tr>
 
