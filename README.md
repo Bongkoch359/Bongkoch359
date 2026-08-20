@@ -65,7 +65,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
       <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=for-the-badge&logo=oracle&logoColor=F80000" height="32"/>
-      <img src="https://img.shields.io/badge/PL%2FSQL-FEF2F2?style=for-the-badge&logo=oracle&logoColor=F80000" height="32"/>
     </td>
   </tr>
 
