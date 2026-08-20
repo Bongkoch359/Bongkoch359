@@ -64,6 +64,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
     <td style="padding:14px; font-size:16px;">🗄️ <b>Database</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
+      <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=for-the-badge&logo=oracle&logoColor=F80000" height="32"/>
+      <img src="https://img.shields.io/badge/PL%2FSQL-FEF2F2?style=for-the-badge&logo=oracle&logoColor=F80000" height="32"/>
     </td>
   </tr>
 
@@ -74,13 +76,25 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
       <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255" height="32"/>
       <img src="https://img.shields.io/badge/Git-FEF3C7?style=for-the-badge&logo=git&logoColor=F05032" height="32"/>
       <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=181717" height="32"/>
+      <img src="https://img.shields.io/badge/MySQL_Workbench-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
       <img src="https://img.shields.io/badge/Figma-FDECEC?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:14px; font-size:16px;">🤖 <b>AI Tools</b></td>
+    <td style="padding:14px;">
+      <img src="https://img.shields.io/badge/ChatGPT-EFFCF6?style=for-the-badge" height="32"/>
+      <img src="https://img.shields.io/badge/Gemini-E8F4FD?style=for-the-badge" height="32"/>
+      <img src="https://img.shields.io/badge/Claude-FDF2F8?style=for-the-badge" height="32"/>
     </td>
   </tr>
 
 </table>
 
 </div>
+
+
 
 ---
 ## 🚀 Featured Projects
