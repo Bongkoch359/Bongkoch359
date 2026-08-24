@@ -32,97 +32,68 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ## 🧳 Tech Stack & Tools
 
-<table style="border-collapse: collapse; width: 100%;">
-
+<table>
   <tr>
-    <th style="border: 1px solid #ccc; padding: 8px;">Domain</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">Primary</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">Currently Exploring</th>
+    <th>Domain</th>
+    <th>Primary</th>
+    <th>Currently Exploring</th>
   </tr>
 
-  <!-- Front-end -->
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      🎨 <b>Front-end</b>
+    <td><b>🎨 Front-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat&logo=html5&logoColor=E34F26" height="28">
+      <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat&logo=css3&logoColor=1572B6" height="28">
+      <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat&logo=javascript&logoColor=111111" height="28">
+      <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=flat&logo=bootstrap&logoColor=7952B3" height="28">
     </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat&logo=html5&logoColor=E34F26" height="28"/>
-      <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat&logo=css3&logoColor=1572B6" height="28"/>
-      <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat&logo=javascript&logoColor=F7DF1E" height="28"/>
-      <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=flat&logo=bootstrap&logoColor=7952B3" height="28"/>
-    </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/React-EEF2FF?style=flat&logo=react&logoColor=61DAFB" height="28"/>
+    <td>
+      <img src="https://img.shields.io/badge/React-EEF2FF?style=flat&logo=react&logoColor=61DAFB" height="28">
     </td>
   </tr>
 
-  <!-- Back-end -->
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      ⚙️ <b>Back-end</b>
+    <td><b>⚙️ Back-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat&logo=openjdk&logoColor=ED8B00" height="28">
+      <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat&logo=springboot&logoColor=6DB33F" height="28">
+      <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=flat&logo=spring&logoColor=6DB33F" height="28">
     </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat&logo=openjdk&logoColor=ED8B00" height="28"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat&logo=springboot&logoColor=6DB33F" height="28"/>
-      <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=flat&logo=spring&logoColor=6DB33F" height="28"/>
-    </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/RESTful_API-E8F4FD?style=flat&logoColor=0D6EFD" height="28"/>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful_API-E8F4FD?style=flat&logoColor=0D6EFD" height="28">
     </td>
   </tr>
 
-  <!-- Database -->
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      🗄️ <b>Database</b>
+    <td><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28">
+      <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=flat&logo=oracle&logoColor=F80000" height="28">
     </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28"/>
-      <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=flat&logo=oracle&logoColor=F80000" height="28"/>
-    </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-    </td>
+    <td></td>
   </tr>
 
-  <!-- Tools -->
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      🛠️ <b>Tools</b>
+    <td><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28">
+      <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=flat&logo=eclipseide&logoColor=2C2255" height="28">
+      <img src="https://img.shields.io/badge/Git-FEF3C7?style=flat&logo=git&logoColor=F05032" height="28">
+      <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat&logo=github&logoColor=181717" height="28">
+      <img src="https://img.shields.io/badge/MySQL_Workbench-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28">
+      <img src="https://img.shields.io/badge/Figma-FDECEC?style=flat&logo=figma&logoColor=F24E1E" height="28">
     </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28"/>
-      <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=flat&logo=eclipseide&logoColor=2C2255" height="28"/>
-      <img src="https://img.shields.io/badge/Git-FEF3C7?style=flat&logo=git&logoColor=F05032" height="28"/>
-      <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat&logo=github&logoColor=181717" height="28"/>
-      <img src="https://img.shields.io/badge/MySQL_Workbench-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28"/>
-      <img src="https://img.shields.io/badge/Figma-FDECEC?style=flat&logo=figma&logoColor=F24E1E" height="28"/>
-    </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-    </td>
+    <td></td>
   </tr>
 
-  <!-- AI Tools -->
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      🤖 <b>AI Tools</b>
+    <td><b>🤖 AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChatGPT-EFFCF6?style=flat" height="28">
+      <img src="https://img.shields.io/badge/Gemini-E8F4FD?style=flat" height="28">
+      <img src="https://img.shields.io/badge/Claude-FDF2F8?style=flat" height="28">
     </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <img src="https://img.shields.io/badge/ChatGPT-EFFCF6?style=flat" height="28"/>
-      <img src="https://img.shields.io/badge/Gemini-E8F4FD?style=flat" height="28"/>
-      <img src="https://img.shields.io/badge/Claude-FDF2F8?style=flat" height="28"/>
-    </td>
-
-    <td style="border: 1px solid #ccc; padding: 8px;">
-    </td>
+    <td></td>
   </tr>
 
 </table>
