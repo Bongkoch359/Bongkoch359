@@ -29,7 +29,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 📍 **Current Project:** Developing a **Tribal Community Tourism System**, a full-stack web application that promotes tribal community tourism by providing information about tours, homestays, bookings, and payment management.
 
 ---
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
@@ -60,27 +59,18 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   </tr>
 
   <tr>
-  <td style="padding:14px; font-size:16px;">⚙️ <b>Back-end</b></td>
-  <td style="padding:14px;">
-    <img src="https://img.shields.io/badge/Java-FEF3C7?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="32"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="32"/>
-    <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=for-the-badge&logo=spring&logoColor=6DB33F" height="32"/>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:14px; font-size:16px;">📚 <b>Currently Learning</b></td>
-  <td style="padding:14px;">
-    <img src="https://img.shields.io/badge/RESTful_API-E8F4FD?style=for-the-badge&logoColor=0D6EFD" height="32"/>
-  </td>
-</tr>
-
-
-  <tr>
     <td style="padding:14px; font-size:16px;">🗄️ <b>Database</b></td>
     <td style="padding:14px;">
       <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32"/>
       <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=for-the-badge&logo=oracle&logoColor=F80000" height="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:14px; font-size:16px;">📚 <b>Currently Learning</b></td>
+    <td style="padding:14px;">
+      <img src="https://img.shields.io/badge/React-EEF2FF?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
+      <img src="https://img.shields.io/badge/RESTful_API-E8F4FD?style=for-the-badge&logoColor=0D6EFD" height="32"/>
     </td>
   </tr>
 
