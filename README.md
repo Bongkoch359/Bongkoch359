@@ -32,6 +32,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ## 🧳 Tech Stack & Tools
 
+<div align="center">
+
 <table>
   <tr>
     <th>Domain</th>
@@ -42,33 +44,33 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   <tr>
     <td><b>🎨 Front-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-FFE5E5?style=flat&logo=html5&logoColor=E34F26" height="28">
-      <img src="https://img.shields.io/badge/CSS3-E8F4FD?style=flat&logo=css3&logoColor=1572B6" height="28">
-      <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=flat&logo=javascript&logoColor=111111" height="28">
-      <img src="https://img.shields.io/badge/Bootstrap-F3E8FF?style=flat&logo=bootstrap&logoColor=7952B3" height="28">
+      <img src="https://img.shields.io/badge/HTML5-E8F5E9?style=flat&logo=html5&logoColor=E34F26" height="28">
+      <img src="https://img.shields.io/badge/CSS3-E8F5E9?style=flat&logo=css3&logoColor=1572B6" height="28">
+      <img src="https://img.shields.io/badge/JavaScript-E8F5E9?style=flat&logo=javascript&logoColor=F7DF1E" height="28">
+      <img src="https://img.shields.io/badge/Bootstrap-E8F5E9?style=flat&logo=bootstrap&logoColor=7952B3" height="28">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/React-EEF2FF?style=flat&logo=react&logoColor=61DAFB" height="28">
+      <img src="https://img.shields.io/badge/React-E8F5E9?style=flat&logo=react&logoColor=61DAFB" height="28">
     </td>
   </tr>
 
   <tr>
     <td><b>⚙️ Back-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-FEF3C7?style=flat&logo=openjdk&logoColor=ED8B00" height="28">
-      <img src="https://img.shields.io/badge/Spring_Boot-ECFDF5?style=flat&logo=springboot&logoColor=6DB33F" height="28">
+      <img src="https://img.shields.io/badge/Java-E8F5E9?style=flat&logo=openjdk&logoColor=ED8B00" height="28">
+      <img src="https://img.shields.io/badge/Spring_Boot-E8F5E9?style=flat&logo=springboot&logoColor=6DB33F" height="28">
       <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=flat&logo=spring&logoColor=6DB33F" height="28">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/RESTful_API-E8F4FD?style=flat&logoColor=0D6EFD" height="28">
+      <img src="https://img.shields.io/badge/RESTful_API-E8F5E9?style=flat&logoColor=0D6EFD" height="28">
     </td>
   </tr>
 
   <tr>
     <td><b>🗄️ Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28">
-      <img src="https://img.shields.io/badge/Oracle-FEF2F2?style=flat&logo=oracle&logoColor=F80000" height="28">
+      <img src="https://img.shields.io/badge/MySQL-E8F5E9?style=flat&logo=mysql&logoColor=4479A1" height="28">
+      <img src="https://img.shields.io/badge/Oracle-E8F5E9?style=flat&logo=oracle&logoColor=F80000" height="28">
     </td>
     <td></td>
   </tr>
@@ -76,12 +78,12 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   <tr>
     <td><b>🛠️ Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/VS_Code-E0F2FE?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28">
-      <img src="https://img.shields.io/badge/Eclipse-F3E8FF?style=flat&logo=eclipseide&logoColor=2C2255" height="28">
-      <img src="https://img.shields.io/badge/Git-FEF3C7?style=flat&logo=git&logoColor=F05032" height="28">
-      <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat&logo=github&logoColor=181717" height="28">
-      <img src="https://img.shields.io/badge/MySQL_Workbench-E0F2FE?style=flat&logo=mysql&logoColor=4479A1" height="28">
-      <img src="https://img.shields.io/badge/Figma-FDECEC?style=flat&logo=figma&logoColor=F24E1E" height="28">
+      <img src="https://img.shields.io/badge/VS_Code-E8F5E9?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28">
+      <img src="https://img.shields.io/badge/Eclipse-E8F5E9?style=flat&logo=eclipseide&logoColor=2C2255" height="28">
+      <img src="https://img.shields.io/badge/Git-E8F5E9?style=flat&logo=git&logoColor=F05032" height="28">
+      <img src="https://img.shields.io/badge/GitHub-E8F5E9?style=flat&logo=github&logoColor=181717" height="28">
+      <img src="https://img.shields.io/badge/MySQL_Workbench-E8F5E9?style=flat&logo=mysql&logoColor=4479A1" height="28">
+      <img src="https://img.shields.io/badge/Figma-E8F5E9?style=flat&logo=figma&logoColor=F24E1E" height="28">
     </td>
     <td></td>
   </tr>
@@ -89,14 +91,16 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   <tr>
     <td><b>🤖 AI Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ChatGPT-EFFCF6?style=flat" height="28">
-      <img src="https://img.shields.io/badge/Gemini-E8F4FD?style=flat" height="28">
-      <img src="https://img.shields.io/badge/Claude-FDF2F8?style=flat" height="28">
+      <img src="https://img.shields.io/badge/ChatGPT-E8F5E9?style=flat" height="28">
+      <img src="https://img.shields.io/badge/Gemini-E8F5E9?style=flat" height="28">
+      <img src="https://img.shields.io/badge/Claude-E8F5E9?style=flat" height="28">
     </td>
     <td></td>
   </tr>
 
 </table>
+
+</div>
 
 
 
