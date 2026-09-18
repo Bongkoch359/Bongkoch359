@@ -2,31 +2,48 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Full-Stack%20Developer&descAlignY=65&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20UX/UI%20Designer&descAlignY=65&descSize=16"
     alt="header image"
   />
 </p>
 
 <p align="center">
   <em>
-    💗 Passionate about building user-friendly and scalable web applications.
+    💗 Passionate about creating user-friendly, visually appealing, and intuitive digital experiences.
   </em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎨 About Me
 
-I'm a fourth-year Information Technology student at Maejo University with a strong interest in Full-Stack Web Development. I enjoy building web applications from frontend interfaces to backend functionalities and applying my technical knowledge through academic projects.
+I'm a fourth-year Information Technology student at Maejo University with a strong interest in UX/UI Design and Front-end Development. I enjoy designing clean, intuitive, and user-friendly interfaces while applying my technical knowledge to bring designs to life through web development.
 
-- 💻 Passionate about Full-Stack Web Development using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript
-- 🎨 Enjoy creating clean, responsive, and user-friendly interfaces
-- ⚙️ Experienced in developing backend functionalities and database integration
-- 🤝 Enjoy collaborating with others and solving real-world problems
-- 🌱 Continuously learning and improving my web development skills
+- 🎨 Interested in UX/UI Design and creating user-friendly interfaces
+- 🖌️ Enjoy designing website layouts, visual elements, and intuitive user experiences
+- 💻 Familiar with HTML, CSS, JavaScript, and web application development
+- 🧩 Interested in wireframing, user flow, and improving website usability
+- 🤖 Leverage AI tools to support design ideation and prototyping
+- 🤝 Enjoy collaborating with others and solving design and development problems
+- 🌱 Continuously learning and improving my design and web development skills
 - 📫 Reach me: **gmolbkoe47@gmail.com**
 
-📍 **Current Project:** Developing a **Tribal Community Tourism System**, a full-stack web application that promotes tribal community tourism by providing information about tours, homestays, bookings, and payment management.
+📍 **Current Project:** Developing a **Tribal Community Tourism System**, a web-based platform that provides information about tours, homestays, bookings, and payment management, with a focus on creating a clear and user-friendly interface.
+
+---
+
+## 🎨 UX/UI Design Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UI_Design-E8F5E9?style=flat" height="28">
+<img src="https://img.shields.io/badge/Basic_Wireframing-E8F5E9?style=flat" height="28">
+<img src="https://img.shields.io/badge/User_Flow-E8F5E9?style=flat" height="28">
+<img src="https://img.shields.io/badge/Responsive_Design-E8F5E9?style=flat" height="28">
+<img src="https://img.shields.io/badge/Website_Layout_Design-E8F5E9?style=flat" height="28">
+<img src="https://img.shields.io/badge/Prototyping-E8F5E9?style=flat" height="28">
+
+</div>
 
 ---
 
@@ -42,7 +59,18 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
   </tr>
 
   <tr>
-    <td><b>🎨 Front-end</b></td>
+    <td><b>🎨 Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-E8F5E9?style=flat&logo=figma&logoColor=F24E1E" height="28">
+      <img src="https://img.shields.io/badge/Canva-E8F5E9?style=flat&logo=canva&logoColor=00C4CC" height="28">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Prototyping-E8F5E9?style=flat" height="28">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>💻 Front-end</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E8F5E9?style=flat&logo=html5&logoColor=E34F26" height="28">
       <img src="https://img.shields.io/badge/CSS3-E8F5E9?style=flat&logo=css3&logoColor=1572B6" height="28">
@@ -61,9 +89,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
       <img src="https://img.shields.io/badge/Spring_Boot-E8F5E9?style=flat&logo=springboot&logoColor=6DB33F" height="28">
       <img src="https://img.shields.io/badge/Spring_MVC-E8F5E9?style=flat&logo=spring&logoColor=6DB33F" height="28">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/RESTful_API-E8F5E9?style=flat&logoColor=0D6EFD" height="28">
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -79,11 +105,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
     <td><b>🛠️ Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/VS_Code-E8F5E9?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28">
-      <img src="https://img.shields.io/badge/Eclipse-E8F5E9?style=flat&logo=eclipseide&logoColor=2C2255" height="28">
       <img src="https://img.shields.io/badge/Git-E8F5E9?style=flat&logo=git&logoColor=F05032" height="28">
       <img src="https://img.shields.io/badge/GitHub-E8F5E9?style=flat&logo=github&logoColor=181717" height="28">
-      <img src="https://img.shields.io/badge/MySQL_Workbench-E8F5E9?style=flat&logo=mysql&logoColor=4479A1" height="28">
-      <img src="https://img.shields.io/badge/Figma-E8F5E9?style=flat&logo=figma&logoColor=F24E1E" height="28">
     </td>
     <td></td>
   </tr>
@@ -101,8 +124,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </table>
 
 </div>
-
-
 
 ---
 ## 🚀 Featured Projects
