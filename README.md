@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Java%20Developer&descAlignY=65&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FBCFE8,50:E9D5FF,100:BFDBFE&section=header&text=Hi,%20I'm%20Bongkoch!%20👋&fontSize=50&fontColor=6B5B95&animation=fadeIn&desc=Information%20Technology%20Student%20•%20Full%20Stack%20Developer&descAlignY=65&descSize=16"
     alt="header image"
   />
 </p>
@@ -17,20 +17,20 @@
 
 ## 🚀 About Me
 
-I'm a fourth-year Information Technology student at Maejo University with a strong interest in Java Development. I enjoy developing web applications using Java and Spring Boot, working with databases, and applying my programming knowledge to real-world projects through academic projects.
+I'm a fourth-year Information Technology student at Maejo University with a strong interest in Full Stack Web Development. I enjoy building web applications using Java and Spring Boot, working with databases, and developing both frontend and backend features through academic projects.
 
-* ☕ Passionate about Java Development using Java, Spring Boot, and MySQL
+* ☕ Interested in Full Stack Web Development using Java, Spring Boot, and MySQL
 * 💻 Experienced in developing web applications with HTML, CSS, and JavaScript
-* ⚙️ Interested in backend development, database integration, and RESTful APIs
+* ⚙️ Experienced in backend development, database integration, and RESTful APIs
+* 🎨 Interested in creating user-friendly and well-structured web interfaces
 * 🧩 Enjoy solving technical problems and improving my programming skills
 * 🤝 Enjoy collaborating with others and contributing to team projects
 * 🌱 Continuously learning new technologies and improving my software development skills
 * 📫 Reach me: **[gmolbkoe47@gmail.com](mailto:gmolbkoe47@gmail.com)**
 
-📍 **Current Project:** Developing a **Tribal Community Tourism System**, a web application built with Java and Spring Boot that supports tribal community tourism through tour and homestay information, booking, payment management, and user services.
+📍 **Current Project:** Developing a **Tribal Community Tourism System**, a web application built with Java, Spring Boot, Thymeleaf, JavaScript, and MySQL. The system supports tribal community tourism through tour and homestay information, booking, payment management, and user services.
 
 ---
-
 
 ## 🧳 Tech Stack & Tools
 
